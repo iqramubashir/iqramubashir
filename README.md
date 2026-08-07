@@ -1,8 +1,5 @@
 ## Hi, I'm Iqra 👋
 
-<!--
-**iqramubashir/iqramubashir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm an aspiring Civil Engineering student with an interest in engineering, data analytics, and project management.
 
 ## Currently Learning
